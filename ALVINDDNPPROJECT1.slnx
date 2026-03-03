@@ -1,8 +1,0 @@
-<Solution>
-  <Configurations>
-    <Platform Name="ARM64" />
-    <Platform Name="x64" />
-    <Platform Name="x86" />
-  </Configurations>
-  <Project Path="ALVINDDNPPROJECT1/ALVINDDNPPROJECT1.vcxproj" Id="87722fcd-8a22-4b60-8fae-571249872bb9" />
-</Solution>
